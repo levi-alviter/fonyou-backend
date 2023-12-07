@@ -1,0 +1,18 @@
+{
+  "name": "misa-code-challenge-levi-backend",
+  "version": "1.0.0",
+  "description": "Application for fullstack position at FonYou, 05-12-2023",
+  "main": "index.js",
+  "author": "Levi Alviter",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
